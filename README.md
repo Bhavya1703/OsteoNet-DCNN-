@@ -5,7 +5,7 @@ A deep convolutional neural network for classifying osteosarcoma histopathology 
 **Result: 90.4% test accuracy (160 / 177 images), macro F1 of 0.90.**
 
 - **Notebook:** [`osteosarcoma-modified.ipynb`](osteosarcoma-modified.ipynb)
-- **Run on Kaggle:** `(https://www.kaggle.com/code/bhavyasahu/osteosarcoma-modified)`
+- **Run on Kaggle:** [`Osteosarcoma Dataset`](https://www.kaggle.com/code/bhavyasahu/osteosarcoma-modified)
 
 > This is a research and educational project, **not a clinical diagnostic tool**.
 
